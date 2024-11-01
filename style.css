@@ -73,5 +73,10 @@ main > section{
 
 h1 {
   text-align: center;
-  
+}
+
+@media (max-width: 500px) {
+  body {
+    background-color: darkblue;
+  }  
 }
