@@ -33,5 +33,23 @@ p{
 
 .contact{
   background-color: lightcoral;
+  margin: 200px;
+  display: flex;
+  flex-direction: column;
+  display: block;
+  justify-content: space-between;
+  margin: 10px;
   text-align: center;
+  
+}
+
+main > section{
+  text-align: center;
+    border-top: 3px solid;
+    border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  
 }
