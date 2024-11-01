@@ -1,7 +1,21 @@
 body {
   background-color: dodgerblue;
+  font-family: fantasy;
+  box-shadow: 0 0 12px -2px black;
+  padding: 0;
+  max-width: 960px;
+  margin: 0 auto;
 }
 header {
+  color: black;
+  background-color: gray;
+  font-family: fantasy;
+  display: flex;
+  justify-content: space-around;
+ align-items: center;
+}
+footer {
+  height: 50px;
   color: black;
   background-color: gray;
   display: flex;
